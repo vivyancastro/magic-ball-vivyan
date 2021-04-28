@@ -1,7 +1,7 @@
 # Magic 8 Ball
 
 ## Goal
-Play around with Stateful and Stateles Widgets
+Play around with Stateful and Stateless Widgets
 
 ## The App
 It's an app that will help you to solve the trickiest questions in life.
