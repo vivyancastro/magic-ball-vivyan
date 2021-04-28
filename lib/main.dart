@@ -9,10 +9,10 @@ class MagicBallPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.lightBlue[100],
+      backgroundColor: Color(0xFF424242),
       appBar: AppBar(
         title: Text('Ask Me Anything'),
-        backgroundColor: Colors.lightBlue[200],
+        backgroundColor: Color(0xFF212121),
       ),
       body: MagicBall(),
     );
